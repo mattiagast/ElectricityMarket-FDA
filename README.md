@@ -7,7 +7,7 @@ This project investigates the complex dynamics of the Italian electricity market
 The project has been presented on the 12th of July 2024 in an open workshop @ Politecnico di Milano.
 
 ## Preview
-![Electricity Market Analysis Poster](https://raw.githubusercontent.com/mattiagast/ElectricityMarket-FDA/main/docs/Poster.jpg)
+![Electricity Market Analysis Poster](docs/Poster.jpg)
 
 ## WARNING
 > **IMPORTANT:** The folders `DatasetXML` and `DatasetCSV` are not present in this repository due to privacy policy.
@@ -22,6 +22,7 @@ All files in this repository, including the report text and the images in the `r
 1. **Academic & Personal Use**: You are free to use, copy, and distribute these files for non-commercial purposes, provided that appropriate credit is given to the original author.
 2. **Commercial Use**: Reproduction or use of the contents for profit is strictly prohibited without explicit written consent.
 3. **Disclaimer**: The data and analyses are provided "as is." The author assumes no responsibility for financial or operational decisions made based on the findings of this study.
+
 
 
 
