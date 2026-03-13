@@ -21,11 +21,18 @@ The project has been presented on the 12th of July 2024 in an open workshop @ Po
 * **scripts/**: R source code used for data processing, curve reconstruction, and functional time series modeling.
 
 ## License and Usage Policy
-All files in this repository, including the report text and the images in the `results` folder, are subject to the following terms:
 
-1. **Academic & Personal Use**: You are free to use, copy, and distribute these files for non-commercial purposes, provided that appropriate credit is given to the original author.
-2. **Commercial Use**: Reproduction or use of the contents for profit is strictly prohibited without explicit written consent.
-3. **Disclaimer**: The data and analyses are provided "as is." The author assumes no responsibility for financial or operational decisions made based on the findings of this study.
+This project follows a dual-licensing approach:
+
+### 1. Code (MIT License)
+The source code and scripts in this repository are licensed under the **MIT License**. You are free to use, modify, and distribute the code, provided that the original copyright notice is included.
+
+### 2. Report and Visual Results
+All other files, including the scientific report text and the images in the `results` folder, are subject to the following terms:
+
+* **Academic & Personal Use**: You are free to use, copy, and distribute these files for non-commercial purposes, provided that appropriate credit is given to the original authors (Arianna Cagali, Mattia Gastoldi, Roberto Gastoldi).
+* **Commercial Use**: Reproduction or use of the contents (report, findings, or posters) for profit is **strictly prohibited** without explicit written consent.
+* **Disclaimer**: The data and analyses are provided "as is." The authors assume no responsibility for financial or operational decisions made based on the findings of this study.
 
 
 
